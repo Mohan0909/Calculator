@@ -15,7 +15,7 @@ public class Addition implements IOperation{
 		
 		for(double num : numbers) {
 			
-			result =result+num;
+			result = result + num;
 			
 		}
 		

@@ -30,6 +30,7 @@ public class Modulus implements IOperation {
 				return Double.NaN;
 			}
 		}
+		
 		return result;
 		
 	}
