@@ -8,6 +8,7 @@ public class Modulus implements IOperation {
 		if(numbers.length<2) {
 			
 			System.out.println("Modulus operation need minimum 2 numbers");
+			;
 			
 		}
 		
